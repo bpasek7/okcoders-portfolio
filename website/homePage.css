@@ -1,0 +1,14 @@
+.jumbotron {
+	height: 50px;
+	background-image: url("logo-ex-5.png");
+	background-repeat: no-repeat;
+	background-size: auto 100%;
+}
+
+.btn.logout {
+	float: right;
+}
+
+.sidebar {
+	max-width: 250px;
+}
